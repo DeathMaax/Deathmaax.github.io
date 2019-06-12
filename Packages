@@ -8,6 +8,6 @@ MD5sum: 0e98e2aec6ad221156ea2dcec8db4d95
 SHA1: 9cf9d4801df34ad1e5572afe591697c78490951e
 SHA256: 3ef50a10a4e64eac789a1b03e72d4039b1d08a83fbd6e705e0845152d9d2b6ff
 Section: Tweaks
-Description: test tweaks for my repo
-Author: DeathMaax
+Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection
+Author: CokePokes
 Name: Phantom Lite

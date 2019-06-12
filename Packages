@@ -1,8 +1,8 @@
-Package: com.deathmaax.PhantomLite
+Package: com.deathmaax.phantomlite
 Version: 5.3.8-6
 Architecture: iphoneos-arm
 Maintainer: DeathMaax
-Filename: deb/phantom_5.3.8-6.deb
+Filename: deb/com.deathmaax.phantom_5.3.8-6_iphoneos-arm.deb
 Size: 7929448
 MD5sum: 0e98e2aec6ad221156ea2dcec8db4d95
 SHA1: 9cf9d4801df34ad1e5572afe591697c78490951e
@@ -12,11 +12,11 @@ Description: Phantom is in the process of being fully updated to bypass Snapchat
 Author: CokePokes
 Name: Phantom Lite
 
-Package: com.deathmaax.QuickTrust
+Package: com.deathmaax.quicktrust
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: DeathMaax
-Filename: deb/quicktrust_1.0.2.deb
+Filename: deb/com.deathmaax.quicktrust_1.0.2_iphoneos-arm.deb
 Size: 9540
 MD5sum: efbe815d0734e95ebf69d47fe11c6bfa
 SHA1: fd3d2832c0bf52b579d94da2ee99f9fba02c432c

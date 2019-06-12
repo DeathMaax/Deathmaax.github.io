@@ -11,3 +11,17 @@ Section: Tweaks
 Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection
 Author: CokePokes
 Name: Phantom Lite
+
+Package: com.deathmaax.QuickTrust
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: DeathMaax
+Filename: deb/quicktrust_1.0.2.deb
+Size: 9540
+MD5sum: efbe815d0734e95ebf69d47fe11c6bfa
+SHA1: fd3d2832c0bf52b579d94da2ee99f9fba02c432c
+SHA256: ec25db01063a78621ef5bd1e31d5ad8ff7efc0d207d91037ffbde0e964b83cc9
+Section: Tweaks
+Description: adds Trust button to Untrusted Developer alert.
+Author: 1GamerDev
+Name: Quick Trust
